@@ -30,6 +30,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chfhddl0127)](https://solved.ac/chfhddl0127/)
+
 ## 📝 Blogs
 
 - Personal website and blog: https://blog.naver.com/chfhddl1234
