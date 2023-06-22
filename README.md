@@ -37,6 +37,11 @@
 - Personal website and blog: https://blog.naver.com/chfhddl1234
 - study: https://zammanboss.tistory.com/
 
+## 👣 Portfolio
+- [portfolio](https://limzzum.github.io/portfolio)
+- [github](https://github.com/limzzum/portfolio)
+
+  
 ## <a href="https://www.instagram.com/limzzum/">
   <img align="left" alt="limzzum's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
   ## Instagram
