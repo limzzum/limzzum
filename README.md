@@ -5,6 +5,7 @@
 -->
 ## ✨ **Skill**    
 
+<!--
 <p align="left">  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&animation=spin&svgfill=15d8fe">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=2d79c7">
@@ -13,13 +14,31 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jenkins&svgfill=df5c43">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mariadb&svgfill=df5c43">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=df5c43">  
+  -->
+  <p align="left">
+<img src="https://img.shields.io/badge/SpringBoot-006600?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-FF0000?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0099E5?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDb-512BD4?style=for-the-badge&logo=MariaDb&logoColor=white">
+<img src="https://img.shields.io/badge/Git-FF9E0F?style=for-the-badge&logo=Git&logoColor=white">
 
 <!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/javascrspringipt.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 -->
+
+## ✨ **Tool**  
+<p align="left">
+<img src="https://img.shields.io/badge/Notion-006600?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/ErdCloud-FF0000?style=for-the-badge&logo=ErdCloud&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0099E5?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-512BD4?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF9E0F?style=for-the-badge&logo=Postman&logoColor=white">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chfhddl0127)](https://solved.ac/chfhddl0127/)
 
 ## 📝 Blogs
