@@ -1,4 +1,4 @@
-### Hi 👋 welcome my github
+### Hi 👋 Welcome to my github
 <!--
 - 🌱 I’m currently learning Java, Spring, database, algorithym... and
   should be learn English, docker, security, cryptography......
