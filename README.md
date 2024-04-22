@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Jenkins-FF0000?style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-0099E5?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDb-512BD4?style=for-the-badge&logo=MariaDb&logoColor=white">
-<img src="https://img.shields.io/badge/Git-FF9E0F?style=for-the-badge&logo=Git&logoColor=white">
 
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/javascrspringipt.png"></code>
@@ -38,6 +37,8 @@
 <img src="https://img.shields.io/badge/Jira-0099E5?style=for-the-badge&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-512BD4?style=for-the-badge&logo=Discord&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF9E0F?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Git-006600?style=for-the-badge&logo=Git&logoColor=white">
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chfhddl0127)](https://solved.ac/chfhddl0127/)
 
