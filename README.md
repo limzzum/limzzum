@@ -35,8 +35,6 @@
 <img src="https://img.shields.io/badge/Figma-3776AB?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/ErdCloud-FF0000?style=for-the-badge&logo=ErdCloud&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0099E5?style=for-the-badge&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-512BD4?style=for-the-badge&logo=Discord&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF9E0F?style=for-the-badge&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/Git-006600?style=for-the-badge&logo=Git&logoColor=white">
 
 
